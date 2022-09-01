@@ -1,9 +1,19 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: About
-  href: /about
+  menu: # Dropdown menu (one level deep only)
+  - text: EABCN
+    href: /about
+  - text: Members
+    href: /members
 - text: Occurrences
   href: /occurrence/search
+- text: Meetings & Events
+  menu: # Dropdown menu (one level deep only)
+  - text: Meetings
+    href: /meetings
+  - text: Events
+    href: /events
 - text: Example pages
   menu: # Dropdown menu (one level deep only)
   - text: Simple
