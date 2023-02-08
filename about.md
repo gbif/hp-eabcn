@@ -57,4 +57,4 @@ height: 70vh
  
 * Presented the 2nd EABCN Working Group Operational Strategy in December 2019 (Jeju)
 
-![about](hp-eabcn/assets/images/eabcn_about.png)
+![about](./assets/images/eabcn_about.png)
