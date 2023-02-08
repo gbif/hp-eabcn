@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: About
-description: *Abeliophyllum distichum* Nakai
+description: <em>Abeliophyllum distichum</em> Nakai
 background: /assets/images/SAM_2882.JPG
 imageLicense: |
   Photo by Korea National Arboretum
