@@ -1,10 +1,9 @@
 ---
 lang-ref: about
 title: About
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/moss.jpg
+background: /assets/images/SAM_2882.JPG
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  Photo by Korea National Arboretum
 height: 70vh
 ---
 
