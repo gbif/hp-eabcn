@@ -56,3 +56,5 @@ height: 70vh
 * Ended EABCN Phase 1 and made a Proposal for Phase 2 Direction in September 2019 (Vladivostok)
  
 * Presented the 2nd EABCN Working Group Operational Strategy in December 2019 (Jeju)
+
+![about](hp-eabcn/assets/images/eabcn_about.png)
