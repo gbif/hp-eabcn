@@ -8,85 +8,51 @@ imageLicense: |
 height: 70vh
 ---
 
-## Procris quippe mentior urbes ubi
+## Background
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+* The IPCC Fourth Assessment Report(2007) alarmed on the increasing level of climate change and its impact to the environmental degradation in the future: The average world temperature rose 0.76 ℃ from 1850 to 2005; the average temperature will rise 1.4-5.8 ℃ more by 2100; the grassland will become desert; the forest will be destroyed; and in 50 years from then over 1/3 of the earth plants and animals will be extinct or will be endangered.
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+* The degree of climate change in East Asia is in much more serious level than the world average level, estimated to be increased of average temperature to 3.5 ℃ and of the rainfall amount to 4.5%, which urgently calls the cooperation within the countries to diminish it.
 
-## Quam ex te videt
+* The East Asia is the area where many plant species are commonly distributed including rare and endemic plant species.
 
-Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
-cognitus clipeo cognovit *vellent Acoetes prorae* infamataeque priori, **sit
-ubi**.
+* It is necessary to establish the East Asia Biodiversity Conservation Network to provide the basis for promoting conservation and sustainable use of forest plant resources.
 
-    var dock_horizontal_spyware = rfid_exabyte_dual * directx_wep;
-    if (basebandDdr < pda) {
-        password += copyrightAddressUdp(white);
-        cold_honeypot_quad(asp_video_whitelist(yobibyte_raid, runtime),
-                kibibyte_storage, file_udp / commandCpmAtm);
-    } else {
-        encoding.dragWhoisWww = lun_token * ram;
-        boxCpm(media_drag_southbridge);
-        url_key.gnutellaTrinitron += uddi_login_overwrite;
-    }
-    if (phreaking(digitalMulticasting, compression)) {
-        mashup -= serverWidgetTask(9) + mashupDirectory;
-        safeCifsIde = odbc_modem;
-    }
+## EABCN joint research topics
 
-### Turbatque promittat memorque
+* Research on the monitoring of species distribution by climate change
 
-Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
-lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
-dum: fateor profugus renovatus exhalantem.
+* Development of East Asia Integrated flora (Check list)
 
---------
+* Monitoring on exotic plants and building data sharing platform
 
-### In frustra albus
+* Strengthening the research capacity and human resources
 
-Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
-genitas trementi hoc bina tulisti! Tuae at aequor!
+## Progress
+### The progress of the establishment and development of the EABCN has been in:
 
-### Turbatque promittat memorque
+* Proposed agenda in the 5th IUCN World Conservation Congress (WCC) in September 2012 (Jeju)
 
-Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
-lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
-dum: fateor profugus renovatus exhalantem.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| tables        | are useful    |    $1 |
-
---------
-
-### In frustra albus
-
-Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
-genitas trementi hoc bina tulisti! Tuae at aequor!
-
-* Level 1 a
-* Level 1 b
-  * Level 2 a
-  * Level 2 b
-
-## Est mea videndo
-
-Nec bene filia fraxineam flumina, praesens amici nitidaeque inguine infractaque!
-Non quae illuc! E alto cum quod: fessi fatum patulis ore actaque quaque, ore.
-Honor praemia veniunt violavit tu
-[aequore](http://pete-munere.com/caeneus-dare.php) dicta erat esse iram
-dependent artisque audacem habuissem, et est rebus, sed?
-
-[Call to action](/data){: .button .is-primary} [Other action](/data){: .button}
-
-Qua refert, orbataque a denique silentia. Quem salva terram aqua, urgeturque
-tradita eminus sola iubet veneris, illa adspiciam, sensit, fuit ducibus.
+* Delegated a Working Group and Regional Focal Point of each institute in September 2012 (Valdivostok Botanical Garden)
+ 
+* Signed a Letter of Intent (LOI) to build the East Asia Biodiversity Conservation Network agreement in November 2013 (Korea National Arboretum)
+ 
+* Convened a Working Group Meeting for multilateral MOU and discussed on topics of joint researches in April 2014 (Seoul)
+ 
+* Published Important plant species guide book in East Asia and signed on the multilateral MOU in October 2014 (Pyeongchang)
+ 
+* Convened a Working Group Meeting for Atlas of the Vascular Plants in East Asia and Publication in April 2015 (Seoul)
+ 
+* Convened the Steering Committee Meeting for joint research and the EABCN Workshop on Climate Change Impact Monitoring in June 2015 (Tsukuba)
+ 
+* Oraganized the Special Committee Meeting for revision Rules of Procedure (ROP) in July 2015 (Jeju)
+ 
+* Formed 4 Working Groups to promote joint research and amended the Articles of Incorporation to expand membership in July 2016 (Mongolia)
+ 
+* Re-elected the EABCN Chairperson and made Efforts to Expand Membership in July 2017 (Guangzhou)
+ 
+* Changed EABCN operating regulations and approved membership in June 2018 (Shenyang)
+ 
+* Ended EABCN Phase 1 and made a Proposal for Phase 2 Direction in September 2019 (Vladivostok)
+ 
+* Presented the 2nd EABCN Working Group Operational Strategy in December 2019 (Jeju)
