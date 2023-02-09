@@ -14,18 +14,15 @@ cta:
   - text: About
     href: /about
 permalink: /
+height: 90vh
+composition:
+  - type: heroImage
+  - type: stats
+    data: pages.home.stats
+  - type: split
+    data: pages.home.vision #is it right? I copid from SANBI-GBIF
 ---
 
-Edit `/home.md` to change the text.
+It is necessary for Korea to establish East Asian Biodiversity Conservation Network (EABCN) to inspect and research on the regional level conservation of plants that are vulnerable to climate change with limited distribution characteristics in Northeast Asia.""EABCN was established in 2014 under the leadership of Korea National Arboretum. EABCN aims to create a network that promotes research and projects for the conservation of biodiversity and implement GSPCs in Northeast Asia.
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
-
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
-
-
+EABCN was established in 2014 under the leadership of Korea National Arboretum. EABCN aims to create a network that promotes research and projects for the conservation of biodiversity and implement GSPCs in Northeast Asia.
