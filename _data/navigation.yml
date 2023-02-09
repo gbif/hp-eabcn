@@ -4,8 +4,8 @@
   menu: # Dropdown menu (one level deep only)
   - text: EABCN
     href: /about
-  - text: Members
-    href: /members
+  - text: Cooperative institutions
+    href: /cooperative
 - text: Occurrences
   href: /occurrence/search
 - text: Meetings & Events
