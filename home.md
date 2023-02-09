@@ -20,9 +20,5 @@ composition:
   - type: stats
     data: pages.home.stats
   - type: split
-    data: pages.home.vision #is it right? I copid from SANBI-GBIF
+    data: pages.home.explanation #is it right? I copid from SANBI-GBIF
 ---
-
-It is necessary for Korea to establish East Asian Biodiversity Conservation Network (EABCN) to inspect and research on the regional level conservation of plants that are vulnerable to climate change with limited distribution characteristics in Northeast Asia.""EABCN was established in 2014 under the leadership of Korea National Arboretum. EABCN aims to create a network that promotes research and projects for the conservation of biodiversity and implement GSPCs in Northeast Asia.
-
-EABCN was established in 2014 under the leadership of Korea National Arboretum. EABCN aims to create a network that promotes research and projects for the conservation of biodiversity and implement GSPCs in Northeast Asia.
