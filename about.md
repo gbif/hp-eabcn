@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: About
-description: <em>Abeliophyllum distichum</em> Nakai
+description: Introduction of EABCN
 background: /assets/images/SAM_2882.JPG
 imageLicense: |
   Photo by Korea National Arboretum
