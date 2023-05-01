@@ -18,5 +18,5 @@ height: 90vh
 composition:
   - type: heroImage
   - type: split
-    data: pages.home.explanation #is it right? I copid from SANBI-GBIF
+    data: home.explanation #is it right? I copid from SANBI-GBIF
 ---
