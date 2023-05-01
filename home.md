@@ -14,9 +14,9 @@ cta:
   - text: About
     href: /about
 permalink: /
-height: 90vh
 composition:
   - type: heroImage
   - type: split
     data: home.explanation #is it right? I copid from SANBI-GBIF
 ---
+Edit `/home.md` to change the text.
