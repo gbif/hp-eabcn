@@ -17,8 +17,6 @@ permalink: /
 height: 90vh
 composition:
   - type: heroImage
-  - type: stats
-    data: pages.home.stats
   - type: split
     data: pages.home.explanation #is it right? I copid from SANBI-GBIF
 ---
