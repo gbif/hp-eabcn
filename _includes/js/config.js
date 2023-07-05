@@ -38,16 +38,6 @@ var siteConfig = {
           value: 6
         },
         {
-          "type": "in",
-          "key": "publishingOrg",
-          "values": [
-            "8eae4f57-6fb4-4504-8f76-a949b8e9e4d4",
-            "bc8c4295-74ef-4a09-8f6f-e99ee8540772",
-            "f4a99f5b-a46a-44fe-a34d-b9f6b3294037",
-            "ce3cfcc0-6d56-11db-a819-b8a03c50a862"
-          ]
-        },
-        {
           type: 'in',
           key: 'gadmGid',
           values: [
