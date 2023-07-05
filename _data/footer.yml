@@ -5,14 +5,14 @@
 columns:
   - name: Partners
     links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
+    - text: GBIF.org
+      href: https://www.gbif.org/
+    - text: EABCN's IPT
+      href: http://61.82.48.86:8080/ipt-2.4.2/
 
-  - name: Code
+  - name: Feedback
     description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
+      [Create a new GitHub Issue](https://github.com/gbif/hp-north-america/issues/new) to request a feature, report a bug, or provide feedback.
   
   - name: Contact us
     description: | # Can be Markdown
