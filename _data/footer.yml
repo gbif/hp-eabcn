@@ -10,7 +10,7 @@ columns:
     - text: EABCN's IPT
       href: http://61.82.48.86:8080/ipt-2.4.2/
 
-- name: Feedback
+  - name: Feedback
     description: | # Can be Markdown
       [Create a new GitHub Issue](https://github.com/gbif/hp-north-america/issues/new) to request a feature, report a bug, or provide feedback.
   
