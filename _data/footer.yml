@@ -14,12 +14,14 @@ columns:
     description: | # Can be Markdown
       This project is open source. See `_data/footer.yml` to customize the footer.
   
-  - name: Contact
+  - name: Contact us
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+      * 916-70 Punchbowl-ro, Haean-myeon
+      * Yanggu-gun, Gangwon-do
+      * 24564
+      * Korea, Republic of
+      * [EABCN website](http://eabcn.net/)
+      * [Contact node manager](mailto:natu17@korea.kr)
     connectIcons: true
 
   # EXAMPLE
