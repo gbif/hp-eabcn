@@ -39,10 +39,10 @@ remote_theme: gbif/jekyll-hp-base-theme
 
 # For use by the 'standardPrivacy' layout
 privacy:
-  name: Your organisation name
-  domain: your-domain.org
-  contactEmail: info@your-domain.org
-  helpdeskEmail: helpdesk@your-domain.org
+  name: EABCN
+  domain: https://hp-eabcn.gbif.org
+  contactEmail: natu17@korea.kr
+  helpdeskEmail: natu17@korea.kr
 
 # The text for the terms can be changed by adding translations for 'terms', 'acceptTerms' and 'rejectTerms' in `/_data/translations.yml`.
 siteMeasurements:
