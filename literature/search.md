@@ -1,7 +1,7 @@
 ---
+# copid from hp-bison (https://github.com/gbif/hp-bison/blob/master/literature.md)
 layout: literature
 description: Default template for occurrence search
-permalink: /literature
 ---
 <script>
   var siteConfig = {
@@ -26,4 +26,3 @@ permalink: /literature
   }
 };
 </script>
-#copid from hp-bison (https://github.com/gbif/hp-bison/blob/master/literature.md)
