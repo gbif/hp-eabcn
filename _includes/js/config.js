@@ -18,9 +18,6 @@ var siteConfig = {
       // If you need special routes per language, then you have to add locale specific overwrites. The page language is available as a global variable called `pageLang`
       // route: '/data'
     },
-    literatureSearch: {
-      route: '/literature'
-    }
   },
   occurrence: {
     mapSettings: {
@@ -74,23 +71,4 @@ var siteConfig = {
     // occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
   },
-     literature: {
-    rootFilter: {
-      predicate: {
-        type: 'or', predicates: [
-          {
-            type: 'in',
-            key: 'countriesOfResearcher',
-            values: ['US', 'UM', 'AS', 'FM', 'GU', 'MH', 'MP', 'PR', 'PW', 'VI']
-          },
-          {
-            type: 'in',
-            key: 'countriesOfCoverage',
-            values: ['US', 'UM', 'AS', 'FM', 'GU', 'MH', 'MP', 'PR', 'PW', 'VI']
-          }
-        ]
-      }
-    },
-    highlightedFilters: ['q', 'countriesOfResearcher', 'countriesOfCoverage', 'year']
-  }
 };
