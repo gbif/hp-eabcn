@@ -30,5 +30,7 @@
 #    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
 - text: Literature
   href: /literature/search
-- text: News
+- text: Events
   href: /news/
+- text: News
+  href: /newslink/
