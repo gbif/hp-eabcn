@@ -11,4 +11,4 @@ The EABCN IPT will be updated from version 2.7.2 to 2.7.4 on the 4th of August.
 
 The release notes for IPT 2.7.4 can be found [here](https://ipt.gbif.org/manual/en/ipt/latest/releases).
 
-If you have any inquiries or issues regarding this IPT, please do not hesitate to contact [me](jaesc@korea.kr).
+If you have any inquiries or issues regarding this IPT, please do not hesitate to [contact](jaesc@korea.kr).
