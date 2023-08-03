@@ -1,7 +1,7 @@
 ---
-title:  "Update notice"
+title:  "IPT update notice"
 date:   2023-08-03 14:30:00 +0900
-categories: update ipt
+categories: ["Update", "IPT"]
 lang-ref: notice-update
 background: /assets/images/DSC04478_백운산원추리.JPG
 imageLicense: |
