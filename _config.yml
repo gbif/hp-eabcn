@@ -11,7 +11,7 @@
 # If you need help with YAML syntax, here are some quick references for you: 
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
-# You should also look at https://hp-theme.gbif-staging.org/documentation-intro for options
+# You should also look at https://theme.hp.gbif-staging.org/documentation-intro for options
 #
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
@@ -25,7 +25,7 @@ description: |
   East Asia is a region having a broad area in the Asia continent sharing similar types of floras and faunas as well as cultural, historical backgrounds.
   East Asia is mainly covered with temperate forest, boreal forest and grassland.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hp-eabcn.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://data.eabcn.net/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: yourname # if you have an account you want to link to. Else comment this line out
 #github_username:  yourname # if you have an account you want to link to. Else comment this line out
 
@@ -40,7 +40,7 @@ remote_theme: gbif/jekyll-hp-base-theme
 # For use by the 'standardPrivacy' layout
 privacy:
   name: EABCN
-  domain: https://hp-eabcn.gbif.org
+  domain: https://data.eabcn.net
   contactEmail: natu17@korea.kr
   helpdeskEmail: natu17@korea.kr
 

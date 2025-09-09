@@ -4,7 +4,7 @@
 
 # GBIF Hosted Portal: hp-eabcn
 
-This Jekyll website, **[hp-eabcn](https://hp-eabcn.gbif.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
+This Jekyll website, **[hp-eabcn](https://eabcn.hp.gbif.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
 
 You can find information on editing this site and more on [gbif/hosted-portals](https://github.com/gbif/hosted-portals)
 
