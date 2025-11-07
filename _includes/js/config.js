@@ -1,46 +1,63 @@
-var siteTheme = gbifReactComponents.themeBuilder.extend({
-  baseTheme: 'light', extendWith: {
-    primary: themeStyle.colors.primary
-  }
-});
-
-var siteTheme = gbifReactComponents.themeBuilder.extend({
-  baseTheme: 'light', extendWith: {
-    primary: themeStyle.colors.primary,
-    fontSize: '16px'
-  }
-});
-
 var siteConfig = {
-  routes: {
-    occurrenceSearch: {
-      // The route you are currently using for occurrence search. The language prefix will be added automatically
-      // If you need special routes per language, then you have to add locale specific overwrites. The page language is available as a global variable called `pageLang`
-      // route: '/data'
-    },
+  "version": 3,
+  "pages": [
+    {
+      "id": "occurrenceSearch"
+    }
+  ],
+  "disableInlineTableFilterButtons": false,
+  "availableCatalogues": [
+    "OCCURRENCE"
+  ],
+  "dataHeader": {
+    "enableApiPopup": false,
+    "enableInfoPopup": false
   },
-  occurrence: {
-    mapSettings: {
-      lat: 54.67,
-      lng: 146.28,
-      zoom: 3.59
-    },
-    // You probably need help to configure the scope - so just ask
-    // for his demo site we only show Fungi (taxonKey=5). It use the predicate structure known from GBIF download API. 
-    // See https://www.gbif.org/developer/occurrence (long page without enough anchors - search for "Occurrence Download Predicates")
-    // The format is however slightly different, in that is use camelCase for keys instead of CONSTANT_CASE. 
-    rootPredicate: {
-      type: 'and',
-      predicates: [
+  "theme": {
+    "primary": themeStyle.colors.primary,
+    "borderRadius": 3,
+    "stickyOffset": "0px"
+  },
+  "maps": {
+    "mapStyles": {
+      "defaultProjection": "MERCATOR",
+      "defaultMapStyle": "BRIGHT",
+      "options": {
+        "MERCATOR": [
+          "BRIGHT",
+          "NATURAL"
+        ]
+      }
+    }
+  },
+  "languages": [
+    {
+      "code": "en",
+      "localeCode": "en",
+      "label": "English",
+      "default": true,
+      "textDirection": "ltr",
+      "iso3LetterCode": "eng",
+      "cmsLocale": "en-GB",
+      "vocabularyLocale": "en",
+      "gbifOrgLocalePrefix": "",
+      "mapTileLocale": "en"
+    }
+  ],
+  "messages": {},
+  "occurrenceSearch": {
+    "scope": {
+      "type": "and",
+      "predicates": [
         {
-          type: 'equals',
-          key: 'taxonKey',
-          value: 6
+          "type": "equals",
+          "key": "taxonKey",
+          "value": 6
         },
         {
-          type: 'in',
-          key: 'gadmGid',
-          values: [
+          "type": "in",
+          "key": "gadmGid",
+          "values": [
             "CHN.10_1",
             "CHN.11_1",
             "CHN.15_1",
@@ -67,8 +84,16 @@ var siteConfig = {
           ]
         }
       ]
+    },
+    "mapSettings": {
+      "lat": 54.67,
+      "lng": 146.28,
+      "zoom": 3.59
     }
-    // occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
-    // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
   },
-};
+  "collectionSearch": {},
+  "institutionSearch": {},
+  "datasetSearch": {},
+  "publisherSearch": {},
+  "literatureSearch": {}
+}
